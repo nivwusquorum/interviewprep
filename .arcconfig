@@ -1,0 +1,7 @@
+{
+    "project_id" : "interviewprep",
+    "conduit_uri" : "http://phab.jnodes.com/",
+    "lint.engine" : "ComprehensiveLintEngine",
+    "lint.jshint.prefix": "/lib/node_modules/jshint/bin/",
+    "lint.jshint.bin": "jshint"
+}
